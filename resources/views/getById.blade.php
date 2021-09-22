@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1 align = center>Ini adalah halaman data Artikel</h1><br>
+<h1 align = center>Ini adalah halaman getById</h1><br>
 
     <table border = "3">
         <tr align = center>
